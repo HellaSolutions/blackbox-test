@@ -13,3 +13,4 @@ buildNumber.properties
 /keyrings/live/pubring.gpg~
 /keyrings/live/pubring.kbx~
 /keyrings/live/secring.gpg
+/src/pippo.txt
